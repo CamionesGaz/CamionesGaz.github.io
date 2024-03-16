@@ -22,7 +22,7 @@ img {
 }
 
 a {
-    color: #2f28b5;
+    color: #0d00ff;
     font-size: 32px; /* Tamaño de la fuente */
     font-family: Arial, sans-serif; /* Tipo de fuente */
     font-weight: bold;
@@ -33,9 +33,6 @@ header, footer {
     text-align: center;
     padding: 20px 0;
 }
-
-
-
 
 
 
@@ -51,7 +48,6 @@ body {
     line-height: 1.6;
     background-color: #510d0d;
 }
-
 
 
 main {
